@@ -1,2 +1,2 @@
 # Codechef_PracticeProblem_solution
-CodeChef Practice Problem Solution
+Solution of Codechef Practice Problem with a problem difficulty rating of 0-1000
