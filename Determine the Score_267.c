@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+int main() {
+    int T;
+    scanf("%d", &T);
+
+    while (T--) {
+        int X, N;
+        scanf("%d %d", &X, &N);
+        int score = (X / 10) * N;
+
+        printf("%d\n", score);
+    }
+
+    return 0;
+}
